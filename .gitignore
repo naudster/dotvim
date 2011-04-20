@@ -1,0 +1,5 @@
+backup/*
+tmp/*
+doc/tags
+.netrwhist
+!.gitignore
