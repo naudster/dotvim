@@ -2,6 +2,10 @@ My personal vim/gvim setup.
 
 # Clone:
 git clone git@github.com:naudster/dotvim.git .vim
+cd .vim
+git submodule init
+git submodule update
+mv bundle/snipmate/snippets/ bundle/snipmate/snippets_disabled
 
 # Set up links:
 ln -s .vim/vimrc .vimrc

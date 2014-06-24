@@ -1,32 +1,33 @@
---- 
+---
 :window_title: VimMate
-:files_use_search: true
-:terminals_audible_bell: false
-:files_filter_active: true
-:terminals_enabled: true
 :window_width: 950
-:files_search_ignore_case: true
-:terminals_visible_bell: false
-:files_auto_expand_on_filter: false
-:terminals_height: 50
 :window_height: 600
-:files_closed_width: 25
-:files_search_separator_position: 400
-:terminals_autoexec: ""
 :layout_big_terminals: false
-:files_refresh_interval: 10
-:terminals_font: "10"
+:files_opened_width: 250
+:files_closed_width: 25
 :files_expanded: true
 :file_headers_visible: false
-:files_warn_too_many_files: 300
-:terminals_login_shell: false
-:files_opened_width: 250
-:files_default_open_in_tabs: true
-:terminals_foreground_color: "#000000"
 :file_hover_selection: false
-:files_warn_too_many_files_each_step: true
-:subversion_enabled: true
-:files_use_ellipsis: true
-:terminals_background_color: "#FFFFDD"
 :file_directory_separator: true
+:files_filter_active: true
+:files_auto_expand_on_filter: false
+:files_refresh_interval: 10
+:files_default_open_in_tabs: true
+:files_use_ellipsis: true
+:files_use_search: true
+:files_search_ignore_case: true
+:files_search_separator_position: 400
+:files_warn_too_many_files: 300
+:files_warn_too_many_files_each_step: true
 :files_show_status: true
+:terminals_enabled: true
+:terminals_height: 50
+:terminals_font: '10'
+:terminals_foreground_color: ! '#000000'
+:terminals_background_color: ! '#FFFFDD'
+:terminals_audible_bell: false
+:terminals_visible_bell: false
+:terminals_autoexec: ''
+:terminals_login_shell: false
+:subversion_enabled: true
+:tags_refresh_interval: 5
